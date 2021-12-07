@@ -3,7 +3,7 @@
 		     url('/font/m+/Mplus1-Bold.otf') format('opentype'),
 		     url('/font/m+/Mplus1-Bold.woff') format('woff');
 		}
-body {background_color: #000000; 
+body {background-color: #000000; 
 	color: #ffffff;
-	font-face: 'M+'
+	font-family: 'M+'
 	}
