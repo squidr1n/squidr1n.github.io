@@ -4,6 +4,6 @@
 		     url('/font/m+/Mplus1-Bold.woff') format('woff');
 		}
 body{background_color: #000000; 
-      color: #ffffff;
+	color: #ffffff;
 	font-face: 'M+'
 	}
