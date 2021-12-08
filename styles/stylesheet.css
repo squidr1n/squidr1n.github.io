@@ -3,7 +3,7 @@
 		     url('/font/m+/Mplus1-Bold.otf') format('opentype'),
 		     url('/font/m+/Mplus1-Bold.woff') format('woff');
 		}
-header {background-image: linear-gradient(to top, #444444, #5f5f5f);
+header {background-image: linear-gradient(to top, #222222, #3f3f3f);
 	background-repeat: no-repeat;
 	background-size: 100%, 10%;
 	background-color: #444444;
@@ -12,4 +12,5 @@ body {background-color: #000000;
       color: #ffffff;
       font-family: Mplus, sans-serif;
 	}
-nav a {text-decoration: none;}
+nav a {text-decoration: none;
+	color: #ffffff}
