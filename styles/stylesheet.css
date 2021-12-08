@@ -12,6 +12,7 @@ header {background-image: linear-gradient(to top, #111111, #2f2f2f);
 body {background-color: #000000; 
       color: #ffffff;
       font-family: Mplus, sans-serif;
+      background-size: auto;	
 	}
 nav a {text-decoration: none;
 	color: #ffffff;}
