@@ -7,10 +7,12 @@ header {background-image: linear-gradient(to top, #222222, #3f3f3f);
 	background-repeat: no-repeat;
 	background-size: 100%, 10%;
 	background-color: #444444;
+	border-radius: 15px;
 	}
 body {background-color: #000000; 
       color: #ffffff;
       font-family: Mplus, sans-serif;
 	}
 nav a {text-decoration: none;
-	color: #ffffff}
+	color: #ffffff;}
+iframe {border: 0px;}
