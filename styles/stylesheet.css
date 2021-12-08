@@ -12,4 +12,4 @@ body {background-color: #000000;
       color: #ffffff;
       font-family: Mplus, sans-serif;
 	}
-nav {text-decoration: none;}
+nav a {text-decoration: none;}
