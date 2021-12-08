@@ -15,4 +15,5 @@ body {background-color: #000000;
 	}
 nav a {text-decoration: none;
 	color: #ffffff;}
-iframe {border: 0px;}
+iframe {border: 0px;
+	overflow: auto;}
