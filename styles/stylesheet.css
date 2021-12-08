@@ -3,10 +3,11 @@
 		     url('/font/m+/Mplus1-Bold.otf') format('opentype'),
 		     url('/font/m+/Mplus1-Bold.woff') format('woff');
 		}
-header {background-image: linear-gradient(to top, #eeeeee, #dddddd);
+header {background-image: linear-gradient(to top, #fefefe, #dfdfdf);
 	background-repeat: no-repeat;
-	background-size: 95%, 10%;
-	background-color: #eeeeee;
+	background-size: 100%, 10%;
+	background-color: #fefefe;
+	}
 body {background-color: #000000; 
       color: #ffffff;
       font-family: Mplus, sans-serif;
