@@ -20,7 +20,8 @@ body {background-color: #000000;
 nav a {text-decoration: none;
         color: #ffffff;
 	float: right;
-	padding: 3%}
+	white-space: nowrap;
+	padding: 10px}
 nav a:focus {background-image: linear-gradient(to top, #080808, #181818);}
 nav a:hover {background-image: linear-gradient(to top, #080808, #181818);}
 nav a:active {background-color: #ffffff; color: #000000}
