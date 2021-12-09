@@ -22,8 +22,8 @@ nav a {text-decoration: none;
 	float: right;
 	white-space: nowrap;
 	padding: 10px}
-nav a:focus {background-image: linear-gradient(to top, #080808, #181818);}
-nav a:hover {background-image: linear-gradient(to top, #080808, #181818);}
+nav a:focus {background-image: linear-gradient(to top, #080808, #181818); border-radius: 7px;}
+nav a:hover {background-image: linear-gradient(to top, #080808, #181818); border-radius: 7px;}
 nav a:active {background-color: #ffffff; color: #000000}
 nav li {display: inline;}
 nav ul {list-style-type: none;}
