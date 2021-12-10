@@ -15,7 +15,7 @@ header, main, nav, footer, section, article, figure, figcaption, aside {display:
 body {background-color: #000000; 
 	color: #ffffff;
 	font-family: Mplus, sans-serif;
-	background-size: auto;	
+	/*background-size: auto;*/
 	}
 main {margin-top: 10%}
 nav a {text-decoration: none;
