@@ -12,7 +12,7 @@ header {background-image: linear-gradient(to top, #111111, #2f2f2f);
 	position: fixed;
 	}
 header, main, nav, footer, section, article, figure, figcaption, aside {display: block;}
-body {/* background-color: #000000; */
+body {background-color: #000000;
 	color: #ffffff;
 	font-family: Mplus, sans-serif;
 	/*background-size: auto;*/
