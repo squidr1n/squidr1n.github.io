@@ -4,7 +4,7 @@
 	url('/font/m+/Mplus1-Bold.woff') format('woff');
 		}
 * {box-sizing: border-box;}	
-header, nav {background-image: linear-gradient(to top, #111111, #2f2f2f);
+header {background-image: linear-gradient(to top, #111111, #2f2f2f);
 	background-repeat: no-repeat;
 	background-size: 100%, 10%;
 	background-color: #444444;
