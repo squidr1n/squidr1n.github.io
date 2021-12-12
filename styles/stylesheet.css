@@ -23,7 +23,7 @@ body {background-color: #000000;
 	font-family: sans-serif;
 	background-size: 100%;
 	}
-main {margin-top: 10%}
+main {width: 100%;}
 
 nav a {text-decoration: none;
         color: #ffffff;
