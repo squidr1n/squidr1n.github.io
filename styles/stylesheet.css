@@ -3,7 +3,8 @@
 	url('/font/m+/Mplus1-Bold.otf') format('opentype'),
 	url('/font/m+/Mplus1-Bold.woff') format('woff');
 		}
-* {box-sizing: border-box;}	
+* {box-sizing: border-box;}
+
 header {background-image: linear-gradient(to top, #111111, #2f2f2f);
 	background-repeat: no-repeat;
 	background-size: 100%, 10%;
@@ -12,21 +13,31 @@ header {background-image: linear-gradient(to top, #111111, #2f2f2f);
 	position: fixed;
 	}
 header h3 {padding: 10px}
+
 header, main, nav, footer, section, article, figure, figcaption, aside {display: block;}
+
 body {background-color: #000000;
 	color: #ffffff;
 	font-family: sans-serif;
 	background-size: 100%;
 	}
 main {}
+
 nav a {text-decoration: none;
         color: #ffffff;
 	padding: 10px;
 	float: right;}
 nav a:focus {background-image: linear-gradient(to top, #080808, #181818); border-radius: 10px;}
+
 nav a:hover {background-image: linear-gradient(to top, #080808, #181818); border-radius: 10px;}
+
 nav a:active {background-color: #ffffff; color: #000000}
-nav li {display: inline;}
+
+nav li {display: inline;
+	overflow: auto;
+	white-space: nowrap;}
+
 nav ul {list-style-type: none;}
+
 iframe {border: 0px;
 	overflow: auto;}
