@@ -16,7 +16,7 @@ header, main, nav, footer, section, article, figure, figcaption, aside {display:
 body {background-color: #000000;
 	color: #ffffff;
 	font-family: sans-serif;
-	background-size: auto;
+	background-size: 100%;
 	}
 main {}
 nav a {text-decoration: none;
