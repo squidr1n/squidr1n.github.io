@@ -15,7 +15,7 @@ header h3 {padding: 10px}
 header, main, nav, footer, section, article, figure, figcaption, aside {display: block;}
 body {background-color: #000000;
 	color: #ffffff;
-	font-family: Mplus, sans-serif;
+	font-family: sans-serif;
 	background-size: auto;
 	}
 main {}
