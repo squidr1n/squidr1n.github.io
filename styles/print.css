@@ -1,3 +1,7 @@
 header {display: none;}
+
+* {page-break-before: always;}
+
 body {background-color: #ffffff;
-			
+	font-family: serif;}
+	
