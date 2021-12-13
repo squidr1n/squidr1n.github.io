@@ -14,7 +14,8 @@ header {background-image: linear-gradient(to top, #111111, #2f2f2f);
 	height:10%;
 	width: 98.25%;
 	}
-header h3 {padding: 10px}
+header h3 {padding: 10px;
+	float: left;}
 
 header, main, nav, footer, section, article, figure, figcaption, aside {display: block;}
 
