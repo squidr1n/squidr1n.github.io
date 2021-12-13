@@ -17,8 +17,7 @@ body {background-color: #000000;
 	font-family: sans-serif;
 	background-size: 100%;
 	}
-main {padding: 10px;
-	margin-top:;}
+main {top: 15%;}
 
 nav a {text-decoration: none;
         color: #ffffff;
@@ -28,7 +27,8 @@ nav a:focus {background-image: linear-gradient(to top, #080808, #181818); border
 
 nav a:hover {background-image: linear-gradient(to top, #080808, #181818); border-radius: 10px;}
 
-nav li {display: inline;}
+nav li {display: inline;
+	white-space: nowrap;}
 
 nav ul {list-style-type: none;}
 
