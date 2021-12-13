@@ -13,7 +13,6 @@ header {background-image: linear-gradient(to top, #111111, #2f2f2f);
 	position: fixed;
 	height: 10%;
 	width: 98.25%;
-	margin-top: 0;
 	}
 header h3 {padding: 10px;
 	float: left;}
@@ -26,7 +25,7 @@ body {background-color: #000000;
 	background-size: 100%;
 	}
 main {padding: 10px;
-	margin-top: 8%;}
+	margin-top:;}
 
 nav a {text-decoration: none;
         color: #ffffff;
