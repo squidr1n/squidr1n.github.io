@@ -1,6 +1,36 @@
 * {box-sizing: border-box;}
 
-@media only screen and (max-width: 720px)
+@media only screen and (max-width: 720px) {
+	header {background-image: linear-gradient(to top, #111111, #2f2f2f);
+		background-repeat: no-repeat;
+		background-size: 100%, 10%;
+		background-color: #444444;
+		border-radius: 10px;
+		position: fixed;
+		height: auto;
+		max-height: 30%;
+		width: 95.25%;
+		}
+	body {background-color: #000000;
+		color: #ffffff;
+		font-family: sans-serif;
+		background-size: 100%;
+		}
+	header h3 {padding: 3em;}
+	nav a {text-decoration: none;
+        	color: #ffffff;
+		}
+	nav a:focus {background-image: linear-gradient(to top, #080808, #181818); border-radius: 10px;}
+
+	nav a:hover {background-image: linear-gradient(to top, #080808, #181818); border-radius: 10px;}
+
+	nav li {display: inline-block;
+		white-space: nowrap;
+		padding: 0.5em;
+		text-align: center;}
+
+	nav ul {list-style-type: none;}
+	
 
 header {background-image: linear-gradient(to top, #111111, #2f2f2f);
 	background-repeat: no-repeat;
@@ -10,28 +40,30 @@ header {background-image: linear-gradient(to top, #111111, #2f2f2f);
 	position: fixed;
 	height: auto;
 	max-height: 30%;
-	width: auto;
+	width: 95.25%;
 	}
-header h3 {padding: 10px;
+header h3 {padding: 3em;
 	float: left;}
 
 body {background-color: #000000;
 	color: #ffffff;
 	font-family: sans-serif;
+	font-size: 1em;
 	background-size: 100%;
 	}
 main {top: 15%;}
 
 nav a {text-decoration: none;
         color: #ffffff;
-	padding: 10px;
 	float: right;}
 nav a:focus {background-image: linear-gradient(to top, #080808, #181818); border-radius: 10px;}
 
 nav a:hover {background-image: linear-gradient(to top, #080808, #181818); border-radius: 10px;}
 
-nav li {display: inline;
-	white-space: nowrap;}
+nav li {display: inline-block;
+	white-space: nowrap;
+	padding: 0.5em;
+	text-align: center;}
 
 nav ul {list-style-type: none;}
 
