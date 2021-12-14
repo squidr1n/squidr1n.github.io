@@ -7,8 +7,7 @@ header {background-image: linear-gradient(to top, #111111, #2f2f2f);
 	border-radius: 10px;
 	position: fixed;
 	height: auto;
-	min-height:10%;
-	max-height:17%;
+	max-height:10%;
 	width: 98.25%;
 	top:1em;
 	}
@@ -21,7 +20,7 @@ body {background-color: #000000;
 	font-size: 1em;
 	background-size: 100%;
 	}
-main {margin-top:17%}
+main {margin-top:}
 
 nav a {text-decoration: none;
         color: #ffffff;
