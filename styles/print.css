@@ -1,7 +1,5 @@
 header {display: none;}
 
-* {page-break-before: always;}
-
 * a:after {content: "(" attr(href) ")";}
 
 body {background-color: #ffffff;
