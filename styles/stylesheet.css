@@ -20,7 +20,7 @@ body {background-color: #000000;
 	font-size: 1em;
 	background-size: 100%;
 	}
-main {margin-top:}
+main {margin-top: 15%}
 
 nav a {text-decoration: none;
         color: #ffffff;
@@ -38,4 +38,5 @@ nav li {display: inline-block;
 nav ul {list-style-type: none;}
 
 iframe {border: 0px;
+	margin-top: 0px;
 	overflow: auto;}
