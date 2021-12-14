@@ -7,12 +7,12 @@ header {background-image: linear-gradient(to top, #111111, #2f2f2f);
 	border-radius: 10px;
 	position: fixed;
 	height: auto;
-	min-height:10%
+	min-height:10%;
 	max-height:17%;
 	width: 98.25%;
-	top:3em;
+	top:1em;
 	}
-header h3 {padding: 3em;
+header h3 {padding: 0.25em;
 	float: left;}
 
 body {background-color: #000000;
@@ -25,7 +25,7 @@ main {margin-top:17%}
 
 nav a {text-decoration: none;
         color: #ffffff;
-	float: right;}
+	}
 nav a:focus {background-image: linear-gradient(to top, #080808, #181818); border-radius: 10px;}
 
 nav a:hover {background-image: linear-gradient(to top, #080808, #181818); border-radius: 10px;}
@@ -33,6 +33,7 @@ nav a:hover {background-image: linear-gradient(to top, #080808, #181818); border
 nav li {display: inline-block;
 	white-space: nowrap;
 	padding: 0.5em;
+	float: right;
 	text-align: center;}
 
 nav ul {list-style-type: none;}
