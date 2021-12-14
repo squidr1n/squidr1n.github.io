@@ -8,6 +8,7 @@ header {background-image: linear-gradient(to top, #111111, #2f2f2f);
 	position: fixed;
 	height: auto;
 	width: 98.25%;
+	top:0;
 	}
 header h3 {padding: 3em;
 	float: left;}
