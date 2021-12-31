@@ -7,33 +7,38 @@ header {background-image: linear-gradient(to top, #111111, #2f2f2f);
 	border-radius: 10px;
 	height: auto;
 	width: 98.25%;
-	top:1em;
 	}
 header h3 {padding: 0.25em;
-	float: left;}
-
+	float: left;
+	}
 body {background-color: #000000;
 	color: #ffffff;
 	font-family: sans-serif;
 	font-size: 1em;
 	background-size: 100%;
 	}
-main {margin-top: 10%}
-
+main {margin-top: 10%;
+	float: left;
+	}
 nav a {text-decoration: none;
         color: #ffffff;
 	}
-nav a:focus {background-image: linear-gradient(to top, #080808, #181818); border-radius: 10px; background-size: cover;}
-
-nav a:hover {background-image: linear-gradient(to top, #080808, #181818); border-radius: 10px; background-size: cover;}
-
+nav a:focus {background-image: linear-gradient(to top, #080808, #181818);
+	border-radius: 10px; 
+	background-size: cover;
+	}
+nav a:hover {background-image: linear-gradient(to top, #080808, #181818); 
+	border-radius: 10px;
+	background-size: cover;
+	}
 nav li {display: inline-block;
 	padding: 0.5em;
 	float: right;
-	text-align: center;}
-
-nav ul {list-style-type: none;}
-
+	text-align: center;
+	}
+nav ul {list-style-type: none;
+	}
 iframe {border: 0px;
 	margin-top: 0px;
-	overflow: auto;}
+	overflow: auto;
+	}
