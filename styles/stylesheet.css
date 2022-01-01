@@ -31,7 +31,7 @@ nav li:hover {background-image: linear-gradient(to top, #080808, #181818);
 	background-size: cover;
 	}
 nav li {display: inline-block;
-	padding: 0.5em;
+	padding: 0.25em;
 	float: right;
 	text-align: center;
 	}
