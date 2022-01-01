@@ -23,11 +23,11 @@ main {top: 10%;
 nav a {text-decoration: none;
         color: #ffffff;
 	}
-nav a:focus {background-image: linear-gradient(to top, #080808, #181818);
+nav li:focus {background-image: linear-gradient(to top, #080808, #181818);
 	border-radius: 10px; 
 	background-size: cover;
 	}
-nav a:hover {background-image: linear-gradient(to top, #080808, #181818); 
+nav li:hover {background-image: linear-gradient(to top, #080808, #181818); 
 	border-radius: 10px;
 	background-size: cover;
 	}
