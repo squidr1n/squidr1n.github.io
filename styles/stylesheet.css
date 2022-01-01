@@ -9,7 +9,7 @@ header {background-image: linear-gradient(to top, #111111, #2f2f2f);
 	width: 100%;
 	margins: 0.2em;
 	}
-header h3 {padding: 0.25em;
+header h3 {padding: 0.4em;
 	}
 body {background-color: #000000;
 	color: #ffffff;
@@ -38,6 +38,7 @@ nav li {display: inline-block;
 	}
 nav ul {list-style-type: none;
 	top:0em;
+	padding: 0.4em
 	}
 iframe {border: 0px;
 	margin-top: 0px;
