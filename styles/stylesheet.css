@@ -36,7 +36,7 @@ nav li {display: inline-block;
 	text-align: center;
 	}
 nav ul {list-style-type: none;
-	margin-top: 0em;
+	padding: 0.2em;
 	}
 iframe {border: 0px;
 	margin-top: 0px;
