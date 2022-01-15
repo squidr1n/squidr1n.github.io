@@ -21,6 +21,7 @@ main {margin-top: 5%;
 	}
 nav a {text-decoration: none;
         color: #ffffff;
+	float: right;
 	}
 nav li:focus {background-image: linear-gradient(to top, #080808, #181818);
 	border-radius: 10px; 
