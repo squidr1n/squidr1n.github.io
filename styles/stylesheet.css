@@ -23,6 +23,8 @@ nav a {text-decoration: none;
         color: #ffffff;
 	float: right;
 	padding: 0.5em;
+	margin-top: 0em;
+	margin-right: 2em;
 	}
 nav li:focus {background-image: linear-gradient(to top, #080808, #181818);
 	border-radius: 10px; 
@@ -37,6 +39,4 @@ nav li {display: inline;
 	}
 nav ul {list-style-type: none;
 	padding: 0.2em;
-	margin-top: 0em;
-	margin-right: 2em:
 	}
