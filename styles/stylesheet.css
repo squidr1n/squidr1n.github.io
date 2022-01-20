@@ -19,6 +19,8 @@ body {background-color: #000000;
 	}
 main {margin-top: 5%;
 	}
+nav {margin-top: 0em;
+	}
 nav a {text-decoration: none;
         color: #ffffff;
 	float: right;
