@@ -1,8 +1,6 @@
 * {box-sizing: border-box;}
 
-header {background-image: linear-gradient(to top, #111111, #2f2f2f);
-	background-repeat: no-repeat;
-	background-size: cover;
+header {background-size: cover;
 	background-color: #444444;
 	border-radius: 10px;
 	min-height: 15%;
@@ -26,12 +24,10 @@ nav a {text-decoration: none;
 	float: right;
 	padding: 0.5em;
 	}
-nav li:focus {background-image: linear-gradient(to top, #080808, #181818);
-	border-radius: 10px; 
+nav li:focus {background-color: #080808; 
 	background-size: cover;
 	}
-nav li:hover {background-image: linear-gradient(to top, #080808, #181818); 
-	border-radius: 10px;
+nav li:hover {background-color: #080808;
 	background-size: cover;
 	}
 nav li {display: inline-block;
