@@ -27,9 +27,11 @@ nav a {text-decoration: none;
 	}
 nav li:focus {background-color: #080808; 
 	background-size: cover;
+	border-radius: 10px;
 	}
 nav li:hover {background-color: #080808;
 	background-size: cover;
+	border-radius: 10px;
 	}
 nav li {display: inline-block;
 	margin-right: 1em;
