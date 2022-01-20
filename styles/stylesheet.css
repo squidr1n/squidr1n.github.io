@@ -17,9 +17,6 @@ body {background-color: #000000;
 	}
 main {margin-top: 5%;
 	}
-nav {margin-top: 0em;
-	float: right;
-	}
 nav a {text-decoration: none;
         color: #ffffff;
 	float: right;
@@ -36,6 +33,7 @@ nav li:hover {background-color: #080808;
 nav li {display: inline-block;
 	margin-right: 1em;
 	text-align: center;
+	margin-top: 0em;
 	}
 nav ul {list-style-type: none;
 	}
