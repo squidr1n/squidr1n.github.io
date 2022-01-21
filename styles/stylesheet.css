@@ -19,7 +19,7 @@ body {background-color: #000000;
 main {margin-top: 5%;
 	}
 nav {display: inline-block;
-	float:right;
+	float: right;
 	}
 nav a {text-decoration: none;
         color: #ffffff;
@@ -40,4 +40,8 @@ nav li {display: inline-block;
 	margin-top: 0em;
 	}
 nav ul {list-style-type: none;
+	}
+#sknv {font-size: 0.3em;
+	float: left;
+	margin-top: 0em;
 	}
