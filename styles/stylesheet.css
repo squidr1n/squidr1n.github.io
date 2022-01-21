@@ -6,9 +6,8 @@ header {background-size: cover;
 	min-height: 15%;
 	width: 100%;
 	margins: 0.2em;
-	display: inline-block;
 	}
-header h3 {padding: 0.4em;
+header h3 {padding: 0.5em;
 	display: inline-block;
 	}
 body {background-color: #000000;
@@ -19,7 +18,8 @@ body {background-color: #000000;
 	}
 main {margin-top: 5%;
 	}
-nav {display: inline-block;}
+nav {display: inline-block;
+	}
 nav a {text-decoration: none;
         color: #ffffff;
 	}
