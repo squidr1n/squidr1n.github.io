@@ -3,10 +3,9 @@
 .webbar {background-size: cover;
 	background-color: #444444;
 	border-radius: 10px;
-	min-height: 15%;
+	min-height: 10%;
 	width: 100%;
 	margins: 0.2em;
-	display: inline-box;
 	}
 header {padding: 0.5em;
 	display: inline-block;
