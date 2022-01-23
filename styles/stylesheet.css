@@ -1,6 +1,6 @@
 * {box-sizing: border-box;}
 
-header {background-size: cover;
+.webbar {background-size: cover;
 	background-color: #444444;
 	border-radius: 10px;
 	min-height: 15%;
