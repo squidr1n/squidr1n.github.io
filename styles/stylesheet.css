@@ -1,1 +1,19 @@
-
+body{background-color:#000;
+  color:#fff;
+	font:1em monospace;
+  }
+main{margin-top:3%;
+  }
+#webbar{background-color:#444;
+	width:100%;
+	overflow:hidden;
+	border-radius:5px;
+  }
+#webbar h3{margin:.5em;
+	display:inline-block;
+  }
+#nav li{display:inline;
+	margin:0em auto .2em .5em;
+	text-align:center;
+	padding:.3em;
+	float:right;
