@@ -44,4 +44,5 @@ nav ul {list-style-type: none;
 	margin-top: 0em;
 	padding: 0em;
 	display: inline;
+	clear:right;
 	}
