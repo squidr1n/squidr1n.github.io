@@ -15,7 +15,7 @@ main{margin-top:3%}
 #nav ul{list-style:none}
 
 #nav li{display:inline;
-	margin:0em auto .5em;
+	margin:0em auto .2em .5em;
 	padding:.3em;
 	float:right
 	}
