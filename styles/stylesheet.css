@@ -31,7 +31,7 @@ nav li:hover {background-color: #080808;
 	border-radius: 10px;
 	}
 nav li {display: inline-block;
-	margin-right: 1em;
+	margin-left: 1em;
 	text-align: center;
 	float: right;
 	padding: 0.5em;
